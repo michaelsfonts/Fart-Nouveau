@@ -1,5 +1,7 @@
 # Fart Nouveau
 
+![Fart Nouveau](images/specimen.png)
+
 Handwritten serif that smells like 1890s Paris.
 
 ## Download
