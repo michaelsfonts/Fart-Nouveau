@@ -6,9 +6,9 @@ Handwritten serif that smells like 1890s Paris.
 
 ## Download
 
-**[Download Fart Nouveau 1.000](https://github.com/michaelsfonts/Fart-Nouveau/releases/latest)**: OTF to install on your computer, WOFF2 for the web, or the zip with both.
+An OTF to install and a WOFF2 for the web, both on the [Releases](https://github.com/michaelsfonts/Fart-Nouveau/releases/latest) page. The zip has the pair.
 
-The same files are in [`fonts/`](fonts/) if you would rather browse the repo.
+Or take them out of [`fonts/`](fonts/).
 
 ## Details
 
@@ -20,5 +20,4 @@ The same files are in [`fonts/`](fonts/) if you would rather browse the repo.
 
 ---
 
-Part of [Michael's Fonts](https://michaelsfonts.com). This repository is archived:
-the font is finished and is kept here for reference.
+Part of [Michael's Fonts](https://michaelsfonts.com). Archived and left alone.
